@@ -19,13 +19,13 @@ src/main/java/com/desafio/pagamento
 │   ├── config  
 
 **Infraestrutura usada**
-Spring Boot
-Java 17+
-Maven
-Spring Web
-Spring Data JPA
-MySQL
-Docker Compose
+Spring Boot  
+Java 17+  
+Maven  
+Spring Web  
+Spring Data JPA  
+MySQL  
+Docker Compose  
 
 **Requisitos**  
 AWS/Local Stack
