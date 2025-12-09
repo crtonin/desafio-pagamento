@@ -1,0 +1,1 @@
+export const TIPOS = ["TED", "DOC", "PIX", "CREDITO", "DEBITO", "BOLETO"];

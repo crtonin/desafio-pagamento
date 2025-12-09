@@ -1,0 +1,13 @@
+body {
+  background: #f4f4f4;
+}
+
+.navbar-item {
+  cursor: pointer;
+}
+
+:root {
+--bulma-primary-h: 212;
+--bulma-primary-s: 70%;
+--bulma-primary-l: 60%;
+}

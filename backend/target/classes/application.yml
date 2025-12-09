@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: pagamentos
+  profiles:
+    active: local
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO

@@ -1,0 +1,15 @@
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/config/CorsConfig.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/domain/model/Payment.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/application/service/PaymentService.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/application/dto/PaymentResponse.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/repository/jpa/SpringPaymentJpaRepository.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/domain/port/PaymentEventPublisherPort.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/PagamentosApplication.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/controller/PaymentController.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/messaging/SqsPublisherAdapter.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/application/dto/PaymentRequest.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/config/SqsConfig.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/domain/port/PaymentRepositoryPort.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/repository/entity/PaymentEntity.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/repository/PaymentRepositoryAdapter.java
+/home/dev/projetos/desafio-pagamento/backend/src/main/java/com/desafio/pagamentos/infrastructure/messaging/SqsConsumerService.java
