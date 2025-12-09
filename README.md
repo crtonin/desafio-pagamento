@@ -18,7 +18,7 @@ src/main/java/com/desafio/pagamento
 │   ├── messaging  
 │   ├── config  
 
-**Infraestrutura usada**
+**Infraestrutura usada**  
 Spring Boot  
 Java 17+  
 Maven  
